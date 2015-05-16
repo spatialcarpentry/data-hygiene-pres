@@ -1,6 +1,11 @@
-## Overview
+## Overview 
 
 ----
 
-- What can be analyzed spatially?
-- What are the available methods?
+  - cleaning is cool
+  - what's in a name
+  - keeping it simple
+  - don't repeat yourself
+  - formatting
+
+
