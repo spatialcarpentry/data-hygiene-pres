@@ -2,6 +2,7 @@
   "index.md",
   "overview.md",
   [ 
+    "janitor/janitor.md",
     "janitor/1.md",
     "janitor/2.md",
     "janitor/3.md",
@@ -9,6 +10,7 @@
     "janitor/5.md"
   ],
   [ 
+    "name/hello.md",
     "name/1.md",
     "name/2.md",
     "name/3.md",
@@ -22,6 +24,12 @@
     "simple/4.md"
   ],
   [
+    "redundant/redundant.md",
+    { 
+      "attr": 
+        { "data-background": "http://storm-is-brewing.com/img/bootcamp/redundancy.jpg"
+        }
+    },
     "redundant/1.md",
     "redundant/2.md",
     "redundant/3.md",
