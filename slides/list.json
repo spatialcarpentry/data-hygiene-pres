@@ -1,11 +1,16 @@
 [
-  "index.md",
+  { 
+    "filename": "index.md",
+    "attr": 
+    {
+      "data-background": "http://storm-is-brewing.com/img/bootcamp/hygiene.jpg"
+    }
+  },
   "overview.md",
   [ 
-    "janitor/janitor.md",
     "janitor/1.md",
+    "janitor/janitor.md",
     "janitor/2.md",
-    "janitor/3.md",
     "janitor/4.md",
     "janitor/5.md"
   ],
@@ -14,32 +19,24 @@
     "name/1.md",
     "name/2.md",
     "name/3.md",
-    "name/4.md",
-    "name/5.md"
+    "name/4.md"
   ],
   [ 
     "simple/1.md",
     "simple/2.md",
-    "simple/3.md",
-    "simple/4.md"
+    "simple/3.md"
   ],
   [
-    "redundant/redundant.md",
     { 
+      "filename": "redundant/redundant.md",
       "attr": 
         { "data-background": "http://storm-is-brewing.com/img/bootcamp/redundancy.jpg"
         }
     },
     "redundant/1.md",
     "redundant/2.md",
-    "redundant/3.md",
-    "redundant/4.md"
-  ], 
-  [
-    "format/1.md",
-    "format/2.md",
-    "format/3.md"
-  ]
+    "redundant/3.md"
+  ] 
 
 
 
