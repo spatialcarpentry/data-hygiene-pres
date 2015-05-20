@@ -16,15 +16,19 @@
   ],
   [ 
     "name/hello.md",
-    "name/1.md",
     "name/2.md",
     "name/3.md",
     "name/4.md"
   ],
   [ 
+    { 
+      "filename": "simple/3.md",
+      "attr": {
+        "data-background": "http://storm-is-brewing.com/img/bootcamp/hoarding.jpg"
+      }
+    },
     "simple/1.md",
-    "simple/2.md",
-    "simple/3.md"
+    "simple/2.md"
   ],
   [
     { 
@@ -36,7 +40,8 @@
     "redundant/1.md",
     "redundant/2.md",
     "redundant/3.md"
-  ] 
+  ],
+  "references.md"
 
 
 
