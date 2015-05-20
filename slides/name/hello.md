@@ -1,6 +1,3 @@
-## Names
-
-----
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
